@@ -1,2 +1,1 @@
-# ND_source_code
-These MATLAB implementation codes are about the source code of example 1-4 in the paper "A New Semi-analytical technique for Nonlinear Systems Based on Response Sensitivity Analysis"
+These MATLAB implementation codes are about the source code of example 1-4 in the paper "A New Semi-analytical technique for Nonlinear Systems Based on Response Sensitivity Analysis", which has been shared on Guang Liu's Website https://sites.google.com/view/guang-lius-website and ResearchGate https://www.researchgate.net/profile/Guang_Liu18. Or, it can be downloaded through the link https://www.owenyaa.tk/download/ND_source_code.zip.
